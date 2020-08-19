@@ -1,0 +1,11 @@
+.estilosp{
+    color: #17a2b8;
+    font-weight : bold;
+}
+p .noestilo{
+    color: #10282c;
+    font-weight : bold;
+}
+Card{
+    box-shadow:#17a2b8 1px;
+}

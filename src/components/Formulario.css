@@ -1,0 +1,13 @@
+label{
+    font-style : italic;
+    font-weight : bold;
+    padding-top: 10px;
+}
+option{
+    color: #17a2b8;
+    font-weight : bold;
+    font-style : italic;
+}
+Button{
+    padding-top: 10px;
+}
